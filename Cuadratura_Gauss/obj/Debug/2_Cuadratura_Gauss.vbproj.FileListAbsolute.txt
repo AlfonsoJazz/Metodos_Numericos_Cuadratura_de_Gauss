@@ -1,0 +1,39 @@
+C:\Users\barto\Desktop\UPIICSA\5_Quinto_Semestre\Métodos_Numericos\3_Tercer_Parcial\2_Cuadratura_Gauss\2_Cuadratura_Gauss\bin\Debug\2_Cuadratura_Gauss.exe.config
+C:\Users\barto\Desktop\UPIICSA\5_Quinto_Semestre\Métodos_Numericos\3_Tercer_Parcial\2_Cuadratura_Gauss\2_Cuadratura_Gauss\bin\Debug\2_Cuadratura_Gauss.exe
+C:\Users\barto\Desktop\UPIICSA\5_Quinto_Semestre\Métodos_Numericos\3_Tercer_Parcial\2_Cuadratura_Gauss\2_Cuadratura_Gauss\bin\Debug\2_Cuadratura_Gauss.pdb
+C:\Users\barto\Desktop\UPIICSA\5_Quinto_Semestre\Métodos_Numericos\3_Tercer_Parcial\2_Cuadratura_Gauss\2_Cuadratura_Gauss\bin\Debug\2_Cuadratura_Gauss.xml
+C:\Users\barto\Desktop\UPIICSA\5_Quinto_Semestre\Métodos_Numericos\3_Tercer_Parcial\2_Cuadratura_Gauss\2_Cuadratura_Gauss\obj\Debug\2_Cuadratura_Gauss.vbprojAssemblyReference.cache
+C:\Users\barto\Desktop\UPIICSA\5_Quinto_Semestre\Métodos_Numericos\3_Tercer_Parcial\2_Cuadratura_Gauss\2_Cuadratura_Gauss\obj\Debug\_2_Cuadratura_Gauss.Form1.resources
+C:\Users\barto\Desktop\UPIICSA\5_Quinto_Semestre\Métodos_Numericos\3_Tercer_Parcial\2_Cuadratura_Gauss\2_Cuadratura_Gauss\obj\Debug\_2_Cuadratura_Gauss.Resources.resources
+C:\Users\barto\Desktop\UPIICSA\5_Quinto_Semestre\Métodos_Numericos\3_Tercer_Parcial\2_Cuadratura_Gauss\2_Cuadratura_Gauss\obj\Debug\2_Cuadratura_Gauss.vbproj.GenerateResource.cache
+C:\Users\barto\Desktop\UPIICSA\5_Quinto_Semestre\Métodos_Numericos\3_Tercer_Parcial\2_Cuadratura_Gauss\2_Cuadratura_Gauss\obj\Debug\2_Cuadratura_Gauss.vbproj.CoreCompileInputs.cache
+C:\Users\barto\Desktop\UPIICSA\5_Quinto_Semestre\Métodos_Numericos\3_Tercer_Parcial\2_Cuadratura_Gauss\2_Cuadratura_Gauss\obj\Debug\2_Cuadratura_Gauss.vbproj.CopyComplete
+C:\Users\barto\Desktop\UPIICSA\5_Quinto_Semestre\Métodos_Numericos\3_Tercer_Parcial\2_Cuadratura_Gauss\2_Cuadratura_Gauss\obj\Debug\2_Cuadratura_Gauss.exe
+C:\Users\barto\Desktop\UPIICSA\5_Quinto_Semestre\Métodos_Numericos\3_Tercer_Parcial\2_Cuadratura_Gauss\2_Cuadratura_Gauss\obj\Debug\2_Cuadratura_Gauss.xml
+C:\Users\barto\Desktop\UPIICSA\5_Quinto_Semestre\Métodos_Numericos\3_Tercer_Parcial\2_Cuadratura_Gauss\2_Cuadratura_Gauss\obj\Debug\2_Cuadratura_Gauss.pdb
+C:\Users\Abril\Downloads\Nueva carpeta\2_Cuadratura_Gauss\2_Cuadratura_Gauss\obj\Debug\2_Cuadratura_Gauss.vbprojAssemblyReference.cache
+C:\Users\Abril\Downloads\Nueva carpeta\2_Cuadratura_Gauss\2_Cuadratura_Gauss\obj\Debug\_2_Cuadratura_Gauss.Form1.resources
+C:\Users\Abril\Downloads\Nueva carpeta\2_Cuadratura_Gauss\2_Cuadratura_Gauss\obj\Debug\_2_Cuadratura_Gauss.Resources.resources
+C:\Users\Abril\Downloads\Nueva carpeta\2_Cuadratura_Gauss\2_Cuadratura_Gauss\obj\Debug\2_Cuadratura_Gauss.vbproj.GenerateResource.cache
+C:\Users\Abril\Downloads\Nueva carpeta\2_Cuadratura_Gauss\2_Cuadratura_Gauss\obj\Debug\2_Cuadratura_Gauss.vbproj.CoreCompileInputs.cache
+C:\Users\Abril\Downloads\Nueva carpeta\2_Cuadratura_Gauss\2_Cuadratura_Gauss\obj\Debug\2_Cuadratura_Gauss.exe
+C:\Users\Abril\Downloads\Nueva carpeta\2_Cuadratura_Gauss\2_Cuadratura_Gauss\obj\Debug\2_Cuadratura_Gauss.xml
+C:\Users\Abril\Downloads\Nueva carpeta\2_Cuadratura_Gauss\2_Cuadratura_Gauss\obj\Debug\2_Cuadratura_Gauss.pdb
+C:\Users\Abril\Downloads\Nueva carpeta\2_Cuadratura_Gauss\2_Cuadratura_Gauss\bin\Debug\2_Cuadratura_Gauss.exe.config
+C:\Users\Abril\Downloads\Nueva carpeta\2_Cuadratura_Gauss\2_Cuadratura_Gauss\bin\Debug\2_Cuadratura_Gauss.exe
+C:\Users\Abril\Downloads\Nueva carpeta\2_Cuadratura_Gauss\2_Cuadratura_Gauss\bin\Debug\2_Cuadratura_Gauss.pdb
+C:\Users\Abril\Downloads\Nueva carpeta\2_Cuadratura_Gauss\2_Cuadratura_Gauss\bin\Debug\2_Cuadratura_Gauss.xml
+C:\Users\Abril\Downloads\Nueva carpeta\2_Cuadratura_Gauss\2_Cuadratura_Gauss\obj\Debug\2_Cuadratura_Gauss.vbproj.CopyComplete
+C:\Users\Abril\Desktop\Metodos 3er parcial\2_Cuadratura_Gauss\2_Cuadratura_Gauss\bin\Debug\2_Cuadratura_Gauss.exe.config
+C:\Users\Abril\Desktop\Metodos 3er parcial\2_Cuadratura_Gauss\2_Cuadratura_Gauss\bin\Debug\2_Cuadratura_Gauss.exe
+C:\Users\Abril\Desktop\Metodos 3er parcial\2_Cuadratura_Gauss\2_Cuadratura_Gauss\bin\Debug\2_Cuadratura_Gauss.pdb
+C:\Users\Abril\Desktop\Metodos 3er parcial\2_Cuadratura_Gauss\2_Cuadratura_Gauss\bin\Debug\2_Cuadratura_Gauss.xml
+C:\Users\Abril\Desktop\Metodos 3er parcial\2_Cuadratura_Gauss\2_Cuadratura_Gauss\obj\Debug\2_Cuadratura_Gauss.vbprojAssemblyReference.cache
+C:\Users\Abril\Desktop\Metodos 3er parcial\2_Cuadratura_Gauss\2_Cuadratura_Gauss\obj\Debug\_2_Cuadratura_Gauss.Form1.resources
+C:\Users\Abril\Desktop\Metodos 3er parcial\2_Cuadratura_Gauss\2_Cuadratura_Gauss\obj\Debug\_2_Cuadratura_Gauss.Resources.resources
+C:\Users\Abril\Desktop\Metodos 3er parcial\2_Cuadratura_Gauss\2_Cuadratura_Gauss\obj\Debug\2_Cuadratura_Gauss.vbproj.GenerateResource.cache
+C:\Users\Abril\Desktop\Metodos 3er parcial\2_Cuadratura_Gauss\2_Cuadratura_Gauss\obj\Debug\2_Cuadratura_Gauss.vbproj.CoreCompileInputs.cache
+C:\Users\Abril\Desktop\Metodos 3er parcial\2_Cuadratura_Gauss\2_Cuadratura_Gauss\obj\Debug\2_Cuadratura_Gauss.vbproj.CopyComplete
+C:\Users\Abril\Desktop\Metodos 3er parcial\2_Cuadratura_Gauss\2_Cuadratura_Gauss\obj\Debug\2_Cuadratura_Gauss.exe
+C:\Users\Abril\Desktop\Metodos 3er parcial\2_Cuadratura_Gauss\2_Cuadratura_Gauss\obj\Debug\2_Cuadratura_Gauss.xml
+C:\Users\Abril\Desktop\Metodos 3er parcial\2_Cuadratura_Gauss\2_Cuadratura_Gauss\obj\Debug\2_Cuadratura_Gauss.pdb
